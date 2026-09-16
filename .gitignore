@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Android 构建产物
+android/build/
+android/.gradle/
+*.idsig
+
+# 日志
+*.log
+
+# Python
+__pycache__/
