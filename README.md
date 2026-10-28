@@ -1,5 +1,7 @@
 # PhoneCam — 把安卓手机变成 OBS 的 1080p60 USB 视频源
 
+[![bilibili](https://img.shields.io/badge/Bilibili-主页-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/2250922)
+
 ```
 手机相机 (Camera2) → H.264 硬件编码 → MPEG-TS → USB (adb forward) → OBS 媒体源
 ```
